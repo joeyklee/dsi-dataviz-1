@@ -8,7 +8,7 @@ my first repo for dsi dataviz fall 2018
 ##### I'M A H5
 ###### I'M A H6
 
-I'm a normal paragraph text. 
+I'm a normal paragraph text.
 
 ![I'm an image](https://cataas.com/cat)
 
@@ -22,3 +22,4 @@ I'm a normal paragraph text.
 | weather! | sun!     | blue!    |
 
 
+**I added some bold text up in here!**
