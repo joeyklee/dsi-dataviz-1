@@ -3,6 +3,8 @@ my first repo for dsi dataviz fall 2018
 
 Hey look at these changes I'm making!
 
+# THIS IS A NEW TITLE FOR EVERYONE TO SEE
+
 🌈❤️🌴
 
 # I'M A H1
@@ -10,7 +12,7 @@ Hey look at these changes I'm making!
 ### I'M A H3
 #### I'M A H4
 ##### I'M A H5
-###### I'M A Hsadasdasda
+###### I'M A H6
 
 I'm a normal paragraph text.
 
