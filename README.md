@@ -1,6 +1,10 @@
 # dsi-dataviz-1
 my first repo for dsi dataviz fall 2018
 
+Hey look at these changes I'm making!
+
+🌈❤️🌴
+
 # I'M A H1
 ## I'M A H2
 ### I'M A H3
